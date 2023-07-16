@@ -1,0 +1,1 @@
+import{r,j as t}from"./index-3bd38a43.js";function c(){const[s,e]=r.useState(0);return t.jsxs("div",{children:[t.jsxs("h2",{children:["Count ",s]}),t.jsx("button",{onClick:()=>e(n=>n-1),children:"Decrement"}),t.jsx("button",{onClick:()=>e(n=>n+1),children:"Increment"})]})}export{c as default};
